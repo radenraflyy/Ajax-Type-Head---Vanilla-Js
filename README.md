@@ -1,1 +1,1 @@
-# Ajax-Type-Head---Vanilla-Js
+# Ajax-Type-Head-Vanilla-Js
